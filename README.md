@@ -1,6 +1,3 @@
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 ## Introduction  
 embyro is a python discord bot using **nextcord**  
 if you need one using **discord.py** try https://github.com/Proladon/PyBot-backBone  
