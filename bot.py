@@ -34,13 +34,6 @@ async def on_ready():
 for filename in os.listdir('./cmds'):
 	if filename.endswith('.py'):
 		bot.load_extension(f"cmds.{filename[:-3]}")
-'''
-initial_extensions = ['cmds.event','cmds.main','cmds.mod','cmds.owner',]
-
-if __name__ == '__main__':
-    for extension in initial_extensions:
-        bot.load_extension(extension)
-'''
 
 
 if __name__ == "__main__":
